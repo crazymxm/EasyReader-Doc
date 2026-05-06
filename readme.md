@@ -51,7 +51,7 @@
 ## 🔗 官方链接
 
 *   **官方网站**: [https://www.easyreader.com.cn/](https://www.easyreader.com.cn/)
-*   **意见反馈**: [反馈通道](./doc/8.5-意见反馈.md)
+
 
 ## 📝 声明
 
