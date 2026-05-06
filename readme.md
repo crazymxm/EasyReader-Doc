@@ -1,6 +1,6 @@
 # EasyReader 论文易读 - 官方使用说明文档
 
-[官网首页](https://www.easyreader.com.cn/) | [立即下载](https://www.easyreader.com.cn/) | [常见问题](#📖-使用说明目录)
+[官网首页](https://www.easyreader.com.cn/) | [立即下载](https://www.easyreader.com.cn/) 
 
 **EasyReader 论文易读** 是一款专为科研人员打造的智能论文阅读工具。集成了 AI 辅助阅读、全文翻译、文献管理及多平台论文搜索功能，旨在提升科研效率。
 
