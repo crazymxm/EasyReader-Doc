@@ -13,7 +13,8 @@
 ### [arXiv 精选周选](./weekly/)
 
 聚焦计算机科学、物理、数学等领域的每日最新突破。
-
+* [arXiv 精选 2026-W22](./weekly/Arxiv_W22.md)
+* [arXiv 精选 2026-W21](./weekly/Arxiv_W21.md)
 * [arXiv 精选 2026-W20](./weekly/Arxiv_W20.md)
 * [arXiv 精选 2026-W19](./weekly/Arxiv_W19.md)
 * [arXiv 精选 2026-W18](./weekly/Arxiv_W18.md)
@@ -21,7 +22,8 @@
 ### [PubMed 精选周刊](./weekly/)
 
 关注生物医学、临床研究及生命科学的前沿动态。
-
+* [PubMed 精选 2026-W22](./weekly/pubMed_W22.md)
+* [PubMed 精选 2026-W21](./weekly/pubMed_W21.md)
 * [PubMed 精选 2026-W20](./weekly/pubMed_W20.md)
 * [PubMed 精选 2026-W19](./weekly/pubMed_W19.md)
 * [PubMed 精选 2026-W18](./weekly/pubMed_W18.md)
